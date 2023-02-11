@@ -29,7 +29,7 @@ Olá, bão? Me chamo Wesley Luiz e sou estudante da Trybe, tenho 21 aninhos e t�
   <a href="https://www.youtube.com/tecnologiaemvideo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gustac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-luiz-7a791b24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:wesleylm03@outlook.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fevernote.com%2Fblog%2Fpt-br%2Fapresentando-o-evernote-para-outlook%2F&psig=AOvVaw2XyML4g1GHyPDxtSxc-2eF&ust=1676212758255000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiX8qLZjf0CFQAAAAAdAAAAABAD" style='width: 28px' target="_blank"></a>  
+   <a href="mailto:wesleylm03@outlook.com" target="_blank"><img src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" style='width: 28px' target="_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=gus-caetano)
 </div>
