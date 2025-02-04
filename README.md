@@ -26,8 +26,7 @@ Olá, bão? Me chamo Wesley Luiz e sou estudante de ADS, tenho 23 anos e tô ape
 
 <!-- REDES SOCIAIS -->
 <div align="center">
-  <a href="https://www.youtube.com/tecnologiaemvideo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gustac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_weel01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-luiz-7a791b24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="mailto:wesleylm03@outlook.com" target="_blank"><img src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" style='width: 28px' target="_blank"></a>  
   
