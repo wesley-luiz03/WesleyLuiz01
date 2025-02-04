@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 😀
 
-Olá, bão? Me chamo Wesley Luiz e sou estudante da Trybe, tenho 21 aninhos e tô apenas começando minha jornada no mundo tecnológico! 
+Olá, bão? Me chamo Wesley Luiz e sou estudante de ADS, tenho 23 anos e tô apenas começando minha jornada no mundo tecnológico! 
 
 <br>
 
