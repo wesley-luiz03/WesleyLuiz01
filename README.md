@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/crash.gif" width="20](https://github.com/wesley-luiz03/WesleyLuiz01/blob/main/3D%20Point%20Sticker%20by%20Crash%20Bandicoot.gif)">
+<img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/crash.gif">
 
 ## Olá, eu me chamo Wesley! 
 
