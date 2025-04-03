@@ -1,5 +1,4 @@
-[<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpzbHRhMTJ0cWxhdjJhZHBqZDR3eTRlN2JhOXllbjJjZWdkbGZpcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DsX1ezml9sQdi/giphy.gif" width="200">
-](https://github.com/wesley-luiz03/WesleyLuiz01/blob/main/3D%20Point%20Sticker%20by%20Crash%20Bandicoot.gif)
+<img src="[https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/crash.gif" width="20](https://github.com/wesley-luiz03/WesleyLuiz01/blob/main/3D%20Point%20Sticker%20by%20Crash%20Bandicoot.gif)">
 
 ## Olá, eu me chamo Wesley! 
 
