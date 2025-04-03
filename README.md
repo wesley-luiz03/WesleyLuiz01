@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l0HlIj3otGAsMx7fy/giphy.gif" width="200">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64f8e9d2-ff85-4e2e-930f-4d21bb5f6098/dfueuad-1db6b39b-3031-44e3-8fa5-1f187c9c6fb4.gif" width="200">
 
 ## Olá, eu me chamo Wesley! 
 
@@ -19,7 +19,6 @@ Um jogo educativo 2D em 16 bits, focado na reestruturação do rio Capibaribe e 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📚 O Que Estou Aprendendo
 - 📝 Organização de projetos (Gerenciando o Capibariver e colocando em prática os aprendizados no mesmo)
