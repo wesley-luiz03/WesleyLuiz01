@@ -1,4 +1,4 @@
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64f8e9d2-ff85-4e2e-930f-4d21bb5f6098/dfueuad-1db6b39b-3031-44e3-8fa5-1f187c9c6fb4.gif" width="200">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpzbHRhMTJ0cWxhdjJhZHBqZDR3eTRlN2JhOXllbjJjZWdkbGZpcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DsX1ezml9sQdi/giphy.gif" width="200">
 
 ## Olá, eu me chamo Wesley! 
 
